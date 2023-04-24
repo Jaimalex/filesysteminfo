@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Autor - Jaime Sendín
-# Organización - Universidad de La Laguna
 # Archivo - filesysteminfo.sh
 # El script se centra en obtener información sobre los sistemas de archivos "montados" en el sistema. 
 
